@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def mult(a, b):
     if b == 1:
         return a

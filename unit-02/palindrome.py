@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def is_palindrome(s: str):
     def to_chars(s: str) -> str:
         s = s.lower()

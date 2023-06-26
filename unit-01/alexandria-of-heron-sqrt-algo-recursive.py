@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def _recursive_sqrt(n: float, guess: float) -> float:
     epsilon = 0.000000001
     if abs(n - guess * guess) < epsilon:

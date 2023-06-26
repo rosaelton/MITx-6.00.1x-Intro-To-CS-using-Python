@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def lowest_payment(balance, annual_interest_rate):
 
     def _lowest(b, i, lower, upper, month):

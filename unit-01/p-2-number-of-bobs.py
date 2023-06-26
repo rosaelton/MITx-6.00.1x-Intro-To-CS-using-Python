@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 s = 'azcbobobegghaklbob'
 
 bob = 0

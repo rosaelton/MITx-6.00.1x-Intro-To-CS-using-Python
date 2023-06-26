@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def bissection_sqrt(min: float, max:float, n:float, epsilon: float) -> float:
     guess = (min + max) / 2.0
 

@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def remaining_balance(balance, annual_interest_rate, monthly_payment_rate):
     def _month_bal(b, i, pr, m):
         if m > 12:

@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def isIn(char, aStr):
     '''
     char: a single character

@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def sqrt(n: float) -> float:
     epsilon = 0.000000001
     guess = 1
